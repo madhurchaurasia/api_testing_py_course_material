@@ -1,0 +1,9 @@
+
+export MACHINE=machine1
+export WP_HOST=local
+
+export WC_KEY=ck_2c590cdf22c7c874b95008be0357ca3098f22344
+export WC_SECRET=cs_c5386f90c46412ab734d6009bf25748065e7ae25
+
+export DB_USER=root
+export DB_PASSWORD=root

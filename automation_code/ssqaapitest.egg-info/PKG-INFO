@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: ssqaapitest
+Version: 1.0
+Summary: Practice API testing
+Requires-Dist: pytest==8.1.1
+Requires-Dist: pytest-html==4.1.1
+Requires-Dist: requests==2.31.0
+Requires-Dist: requests-oauthlib==1.4.0
+Requires-Dist: PyMySQL==1.1.0
+Requires-Dist: WooCommerce==2.1.1
